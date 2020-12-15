@@ -1,6 +1,6 @@
 {
-    "name": "weui",
-    "version": "2.4.2",
+    "name": "zweui",
+    "version": "2.5.0",
     "description": "A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.",
     "keywords": [
         "weui",
@@ -22,25 +22,25 @@
         "lint": "stylelint src",
         "lint:fix": "stylelint src --fix"
     },
-    "author": "wechat ui team",
+    "author": "zafir",
     "repository": {
         "type": "git",
-        "url": "https://github.com/weui/weui.git"
+        "url": "https://github.com/zafirlee/zweui.git"
     },
-    "homepage": "https://github.com/weui/weui",
+    "homepage": "https://github.com/zafirlee/zweui",
     "bugs": {
-        "url": "https://github.com/weui/weui/issues"
+        "url": "https://github.com/zafirlee/zweui/issues"
     },
     "license": "MIT",
     "devDependencies": {
         "autoprefixer": "^6.3.1",
-        "browser-sync": "^2.9.11",
-        "gulp": "^3.9.1",
+        "browser-sync": "^2.26.13",
+        "gulp": "^4.0.2",
         "gulp-convert-css-var": "^0.1.3",
         "gulp-cssnano": "^2.0.0",
         "gulp-header": "^1.7.1",
         "gulp-less": "^4.0.1",
-        "gulp-postcss": "^6.0.1",
+        "gulp-postcss": "^9.0.0",
         "gulp-rename": "^1.2.2",
         "gulp-replace": "^0.5.2",
         "gulp-sourcemaps": "^2.2.0",
